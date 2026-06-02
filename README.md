@@ -1,1 +1,1 @@
-This is my personal react portfolio! 
+This is my personal React portfolio! 
