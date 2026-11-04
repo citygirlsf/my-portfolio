@@ -80,7 +80,7 @@ export default function Hero() {
           position: "relative",
         }}
       >
-        Full Stack <span style={{ color: "#a11184" }}>Developer</span>
+        Full-Stack <span style={{ color: "#a11184" }}>Developer</span>
       </h1>
 
       <p
@@ -95,8 +95,17 @@ export default function Hero() {
           position: "relative",
         }}
       >
-        I build and maintain production web applications using React,
-        TypeScript, JavaScript, Node.js, REST APIs, and PostgreSQL.
+        Full-Stack Software Engineer with 7 years of experience building and
+        delivering scalable, user-focused web applications. Strong expertise in
+        React, TypeScript, JavaScript, Node.js, and PostgreSQL, with hands-on
+        experience developing end-to-end solutions spanning frontend
+        development, backend APIs, and database management. Recently built and
+        shipped a full-stack receipt organizer featuring secure authentication,
+        photo uploads, and user-specific data management. Skilled at translating
+        complex product requirements into reliable, functional applications and
+        solving technical challenges across the development lifecycle. Open to
+        frontend and full-stack engineering opportunities throughout the San
+        Francisco Bay Area.
       </p>
 
       <div

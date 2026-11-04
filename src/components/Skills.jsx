@@ -9,11 +9,11 @@ const skills = [
   { name: "REST APIs", featured: true },
   { name: "HTML5", featured: false },
   { name: "CSS3", featured: false },
-  { name: "E-commerce", featured: false },
-  { name: "Responsive Development", featured: false },
+  { name: "Django", featured: false },
+  { name: "Responsive Design", featured: false },
   { name: "Git / GitHub", featured: false },
   { name: "Web Performance", featured: false },
-  { name: "Full-Stack Development", featured: false },
+  { name: "MySQL", featured: false },
 ];
 
 export default function Skills() {
