@@ -58,10 +58,15 @@ export default function About() {
               marginBottom: "1rem",
             }}
           >
-            I'm Amera R., a full-stack developer with 7 years of professional
-            web development experience. I build and maintain web applications
-            using React, TypeScript, JavaScript, Node.js, REST APIs, and
-            PostgreSQL.
+            Full-Stack Software Engineer with 7 years of experience building and
+            delivering web applications using React, TypeScript, JavaScript,
+            Node.js, and PostgreSQL. Experienced in developing end-to-end
+            solutions, from responsive frontend interfaces to backend APIs,
+            database operations, and secure authentication. Recently built and
+            shipped a receipt organizer featuring secure user accounts, photo
+            uploads, and user-specific data access. Open to frontend and
+            full-stack engineering opportunities across the San Francisco Bay
+            Area.
           </p>
           <p
             style={{
@@ -71,11 +76,14 @@ export default function About() {
               fontWeight: 300,
             }}
           >
-            I currently work on an enterprise project management application,
-            building frontend features, backend functionality, database
-            operations, and bug fixes. I enjoy solving technical problems,
-            learning new technologies, and turning product requirements into
-            reliable working features.
+            Currently contributing to an enterprise project management
+            application, developing frontend features, implementing backend
+            functionality, managing database operations, and resolving technical
+            issues. Experienced in translating product requirements into
+            functional, reliable features while improving application
+            performance and usability. I enjoy tackling complex technical
+            challenges, writing maintainable code, and continuously expanding my
+            skills across the full-stack development lifecycle.
           </p>
           <a
             href="https://github.com/citygirlsf"

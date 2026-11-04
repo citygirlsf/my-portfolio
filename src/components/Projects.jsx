@@ -4,8 +4,8 @@ const projects = [
   {
     num: "01",
     title: "Bookmark App",
-    desc: "A React and TypeScript application for organizing and managing bookmarks. Built with reusable components and interactive functionality while using AI-assisted development tools for research, debugging, and problem-solving.",
-    tags: ["React", "TypeScript", "JavaScript"],
+    desc: "A React application for organizing and managing bookmark links. Built with reusable components and interactive functionality while using AI-assisted development tools for research, debugging, and problem-solving.",
+    tags: ["React", "JavaScript"],
     github: null,
     live: "https://bookmarkmanagermm.netlify.app/",
   },
@@ -32,6 +32,14 @@ const projects = [
     github: null,
     live: "https://coolspotshop.com",
   },
+  {
+    num: "05",
+    title: "Receipt Organizer",
+    desc: "A receipt organizer I built with React, TypeScript, and Tailwind CSS. Users sign up and log in, save receipts with photos into folders by store, and see their monthly spending. The data lives in a Supabase Postgres database with row-level security, so each user sees only their own receipts.",
+    tags: ["React", "TypeScript", "PostgreSQL"],
+    github: null,
+    live: "https://receipt-app-ar.netlify.app/",
+  },
 ];
 
 export default function Projects() {
@@ -55,7 +63,7 @@ export default function Projects() {
       </div>
       <h2
         style={{
-          fontFamily: "'Syne', sans-serif",
+          fontFamily: "monospace",
           fontWeight: 800,
           fontSize: "clamp(2rem, 4vw, 3rem)",
           letterSpacing: "-0.03em",
@@ -107,7 +115,7 @@ export default function Projects() {
 
             <div
               style={{
-                fontFamily: "'Syne', sans-serif",
+                fontFamily: "monospace",
                 fontSize: "0.75rem",
                 color: "#a11184",
                 fontWeight: 700,
@@ -120,7 +128,7 @@ export default function Projects() {
 
             <h3
               style={{
-                fontFamily: "'Syne', sans-serif",
+                fontFamily: "monospace",
                 fontSize: "1.35rem",
                 fontWeight: 700,
                 lineHeight: 1.2,
